@@ -75,9 +75,10 @@ Output Screenshot :
 
 
 
-2. Snake Game
-
-Introduction : Snake is a classic video game in which a player controls a Snake that must eat apples and avoid walls. Each time, you eat an apple, the Snake grows. The Snake’s goal is to eat the maximum of apples. It’s a game of kind infinite.
+2. Flappy Bird
+It is a simple arcade game in which the player has to avoid the bird from hitting the pipes. Developed using java. You must have played this game atleast once
+as it was present on all Android Phones with version 9.0 . After each time when bird passes through pipes untouched there is a counter which keeps on increasing
+until Game is Over.
 
 
 Language Used - Java Core
@@ -85,15 +86,20 @@ Concept Used - Swing, AWT & Basic Java Concepts
 
 
 Game Over can be happened in various ways as :
-1. When snake hits any of the four walls of the screen.
-2. When snake hits itself (only happens after its size increases to 5)
-
+1. When player do not click space button and the bird hits the ground.
+2. When the bird hits any part of the pipes.
 
 Output Screenshots :
 
-![2021-07-29 (18)](https://user-images.githubusercontent.com/88025451/127484587-97524bb8-3897-4a2b-bb5f-3c25ce349214.png)
 
-![2021-07-29 (20)](https://user-images.githubusercontent.com/88025451/127484697-0391edd9-050c-4987-9299-fe96becf3b14.png)
+![2021-07-29 (22)](https://user-images.githubusercontent.com/88025451/127485587-0ab44f62-c51d-48ff-827f-c623bfb5a7d4.png)
+
+
+![2021-07-29 (24)](https://user-images.githubusercontent.com/88025451/127485694-82bc9687-dd2c-4f32-9d3b-7a1eb03e2d24.png)
+
+
+![2021-07-29 (26)](https://user-images.githubusercontent.com/88025451/127485793-df838f10-3d1a-473a-bba0-086a644372a8.png)
+
 
 
 
