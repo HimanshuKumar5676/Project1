@@ -22,37 +22,39 @@ Classes used in project :
 2. FrontPage.java : Displays the Front Page of the System.
 
 Output Screenshot :
-![Alt text](EmployeeManagementSystem/src/icons/front.jpg?raw=true "Title")
+![2021-07-29](https://user-images.githubusercontent.com/88025451/127470129-0bbc016c-88dd-4169-8c8b-57955f2f38ed.png)
+
 
 3. Login Page : Admin enters his/her username and password. If the username and password matches with that in DB then he/she is authorized to see the data of the employees working 
 in the company.
 
 Output Screenshot :
-![Alt text](EmployeeManagementSystem/src/icons/login.jpg?raw=true "Title")
+![2021-07-29 (2)](https://user-images.githubusercontent.com/88025451/127470378-c6f17549-bc03-4bc5-86a1-23c7f9d9a5d7.png)
 
 4. Details.java : Displays the details of the employees and admin can choose any of the options i.e. Add, View, Remove, Update.
 
 Output Screenshot :
-![Alt text](EmployeeManagementSystem/src/icons/display.jpg?raw=true "Title")
+![2021-07-29 (4)](https://user-images.githubusercontent.com/88025451/127470558-a6cead89-c31c-4e93-a07e-18a5627033f6.png)
 
 5. Add Employee : Admin can add new employee in the database.
 
 Output Screenshot :
-![Alt text](EmployeeManagementSystem/src/icons/add_employee.jpg?raw=true "Title")
+![2021-07-29 (6)](https://user-images.githubusercontent.com/88025451/127470882-ed4482ab-4c97-41ba-84ca-b9c1dbd42d15.png)
 
 6. View_Employee and Print_Data.java : Admin can enter the employee Id of the employee and can see his/her details in the DB.
 
 Output Screenshot :
-![Alt text](EmployeeManagementSystem/src/icons/view.jpg?raw=true "Title")
-![Alt text](EmployeeManagementSystem/src/icons/print.jpg?raw=true "Title")
+![2021-07-29 (9)](https://user-images.githubusercontent.com/88025451/127471089-ed6f51aa-48a2-41bc-b7c3-e087f427b0a4.png)
+![2021-07-29 (10)](https://user-images.githubusercontent.com/88025451/127471166-622f80a9-d38d-46f9-a78f-eb6be4757678.png)
 
 7. Remove_Employee : Admin can remove an employee from the DB by entering his/her employeeId.
 
 Output Screenshot :
-![Alt text](EmployeeManagementSystem/src/icons/remove.jpg?raw=true "Title")
+![2021-07-29 (13)](https://user-images.githubusercontent.com/88025451/127471415-348b95c2-45eb-4baf-957b-76d16f8aa458.png)
+![2021-07-29 (14)](https://user-images.githubusercontent.com/88025451/127471429-37586ded-c48a-4292-b77e-00654ce03afc.png)
 
 8. Update_Employee : Admin can update the details of the employee in the DB.
 
 Output Screenshot :
-![Alt text](EmployeeManagementSystem/src/icons/add_employee.jpg?raw=true "Title")
+![2021-07-29 (16)](https://user-images.githubusercontent.com/88025451/127471581-c8a48641-5110-49f9-8280-2a2fc4e47695.png)
 
